@@ -3,6 +3,13 @@
   flex-direction: column;
 }
 
-h1 {
+/* h1 {
   color: blueviolet;
+} */
+
+.h2-section {
+  margin: 0 20px;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 18px;
 }

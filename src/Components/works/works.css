@@ -1,7 +1,12 @@
 .works {
 	display: flex;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 50vh;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 50vh;
 	color: indigo;
+}
+
+.p-section {
+	margin: 20px 20px 100px 20px;
+	padding: 5px;
 }

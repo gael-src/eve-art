@@ -1,11 +1,30 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./header.css";
 
 function Header() {
 	return (
-		<section className="header">
-			<h2>Header</h2>
-		</section>
+		<header className="header">
+			<nav className="nav-tag">
+				<ul className="nav-ul">
+					<li className="nav-li">
+						<Link className="nav-link" to="/">
+							<h1>eve-art</h1>
+						</Link>
+					</li>
+					<li className="nav-li">
+						<Link className="nav-link" to="/works">
+							Works
+						</Link>
+					</li>
+					<li className="nav-li">
+						<Link className="nav-link" to="/about">
+							About
+						</Link>
+					</li>
+				</ul>
+			</nav>
+		</header>
 	);
 }
 

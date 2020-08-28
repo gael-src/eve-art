@@ -4,7 +4,7 @@ import "./home.css";
 function Home() {
 	return (
 		<section className="home">
-			<h1>eve-art</h1>
+			<h2 className="h2-section">eve-art</h2>
 		</section>
 	);
 }

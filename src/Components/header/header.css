@@ -2,3 +2,27 @@
 	display: flex;
 	color: greenyellow;
 }
+
+/* .nav-tag {
+	display: flex;
+} */
+
+.nav-ul {
+	display: flex;
+}
+
+.nav-li {
+	margin: 0 20px;
+	padding: 5px;
+}
+
+.nav-link {
+	color: yellowgreen;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.nav-link:hover {
+	color: indigo;
+}
