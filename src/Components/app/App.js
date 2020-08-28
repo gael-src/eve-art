@@ -1,11 +1,18 @@
 import React from "react";
 // import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import "./App.css";
+import Header from "../header/Header";
+import Home from "../home/Home";
+import Works from "../works/Works";
+import About from "../about/About";
 
 function App() {
 	return (
 		<div className="App">
-			<h1>eve-art</h1>
+			<Header />
+			<Home />
+			<Works />
+			<About />
 		</div>
 	);
 }
