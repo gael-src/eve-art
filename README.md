@@ -1,13 +1,17 @@
 # eve-art
 
-Simple React Web App with 3 page using `react-router-dom` npm package
+Simple React Web App with 3 page using `react-router-dom` npm package and the `bem convention` for CSS.
 
+** React Router Dom NPM Package:** </br>
 https://www.npmjs.com/package/react-router-dom
 
+** CSS BEM Convention:** </br>
+https://css-tricks.com/bem-101/
+
 </br>
 </br>
 
-web deploy:
+## web deploy:
 
 https://gael-src.github.io/eve-art/
 
