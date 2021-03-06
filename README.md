@@ -12,6 +12,8 @@ Simple React Web App with 3 page using `react-router-dom` npm package and the `b
 
 > $ npm start
 
+Happy Coding!
+
 ## web deploy:
 
 https://gael-src.github.io/simple-react-app/
