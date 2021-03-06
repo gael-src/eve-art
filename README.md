@@ -1,4 +1,4 @@
-# eve-art
+# Simple React App
 
 Simple React Web App with 3 page using `react-router-dom` npm package and the `bem convention` for CSS.
 
