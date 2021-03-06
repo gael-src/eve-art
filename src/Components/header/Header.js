@@ -5,20 +5,20 @@ import "./header.css";
 function Header() {
 	return (
 		<header className="header">
-			<nav className="nav-tag">
-				<ul className="nav-ul">
-					<li className="nav-li">
-						<Link className="nav-link" to="/">
-							<h1>Eve Art</h1>
+			<nav>
+				<ul className="nav--ul">
+					<li>
+						<Link className="nav--link nav--link--1" to="/">
+							<h1>Home</h1>
 						</Link>
 					</li>
-					<li className="nav-li">
-						<Link className="nav-link" to="/works">
+					<li>
+						<Link className="nav--link nav--link--2" to="/works">
 							Works
 						</Link>
 					</li>
-					<li className="nav-li">
-						<Link className="nav-link" to="/about">
+					<li>
+						<Link className="nav--link nav--link--3" to="/about">
 							About
 						</Link>
 					</li>
