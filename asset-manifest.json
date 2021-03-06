@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/eve-art/static/css/main.31a5fbd8.chunk.css",
-    "main.js": "/eve-art/static/js/main.faa6b84c.chunk.js",
-    "main.js.map": "/eve-art/static/js/main.faa6b84c.chunk.js.map",
-    "runtime-main.js": "/eve-art/static/js/runtime-main.f12fa0f5.js",
-    "runtime-main.js.map": "/eve-art/static/js/runtime-main.f12fa0f5.js.map",
-    "static/js/2.64ee56d0.chunk.js": "/eve-art/static/js/2.64ee56d0.chunk.js",
-    "static/js/2.64ee56d0.chunk.js.map": "/eve-art/static/js/2.64ee56d0.chunk.js.map",
-    "index.html": "/eve-art/index.html",
-    "static/css/main.31a5fbd8.chunk.css.map": "/eve-art/static/css/main.31a5fbd8.chunk.css.map",
-    "static/js/2.64ee56d0.chunk.js.LICENSE.txt": "/eve-art/static/js/2.64ee56d0.chunk.js.LICENSE.txt",
-    "static/media/alberto-bobbera-0TCUOrQ00gg-unsplash.28b7ea08.jpg": "/eve-art/static/media/alberto-bobbera-0TCUOrQ00gg-unsplash.28b7ea08.jpg",
-    "static/media/birger-strahl-63CvMI31Vbg-unsplash.2311d363.jpg": "/eve-art/static/media/birger-strahl-63CvMI31Vbg-unsplash.2311d363.jpg",
-    "static/media/gian-d-YE6iUShVcps-unsplash.36e6be5e.jpg": "/eve-art/static/media/gian-d-YE6iUShVcps-unsplash.36e6be5e.jpg"
+    "main.css": "/simple-react-app/static/css/main.241d595a.chunk.css",
+    "main.js": "/simple-react-app/static/js/main.f65efaf6.chunk.js",
+    "main.js.map": "/simple-react-app/static/js/main.f65efaf6.chunk.js.map",
+    "runtime-main.js": "/simple-react-app/static/js/runtime-main.d26f9105.js",
+    "runtime-main.js.map": "/simple-react-app/static/js/runtime-main.d26f9105.js.map",
+    "static/js/2.4fa21cd3.chunk.js": "/simple-react-app/static/js/2.4fa21cd3.chunk.js",
+    "static/js/2.4fa21cd3.chunk.js.map": "/simple-react-app/static/js/2.4fa21cd3.chunk.js.map",
+    "index.html": "/simple-react-app/index.html",
+    "static/css/main.241d595a.chunk.css.map": "/simple-react-app/static/css/main.241d595a.chunk.css.map",
+    "static/js/2.4fa21cd3.chunk.js.LICENSE.txt": "/simple-react-app/static/js/2.4fa21cd3.chunk.js.LICENSE.txt",
+    "static/media/alberto-bobbera-0TCUOrQ00gg-unsplash.28b7ea08.jpg": "/simple-react-app/static/media/alberto-bobbera-0TCUOrQ00gg-unsplash.28b7ea08.jpg",
+    "static/media/birger-strahl-63CvMI31Vbg-unsplash.2311d363.jpg": "/simple-react-app/static/media/birger-strahl-63CvMI31Vbg-unsplash.2311d363.jpg",
+    "static/media/gian-d-YE6iUShVcps-unsplash.36e6be5e.jpg": "/simple-react-app/static/media/gian-d-YE6iUShVcps-unsplash.36e6be5e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f12fa0f5.js",
-    "static/js/2.64ee56d0.chunk.js",
-    "static/css/main.31a5fbd8.chunk.css",
-    "static/js/main.faa6b84c.chunk.js"
+    "static/js/runtime-main.d26f9105.js",
+    "static/js/2.4fa21cd3.chunk.js",
+    "static/css/main.241d595a.chunk.css",
+    "static/js/main.f65efaf6.chunk.js"
   ]
 }
