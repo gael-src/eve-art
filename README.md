@@ -56,9 +56,9 @@ simple-react-app
 │           │     │─── home.css
 │           │     └─── home.js
 │           │─── pics
-│           │     │─── pic1.js
-│           │     │─── pic2.js
-│           │     └─── pic3.js
+│           │     │─── pic1.jpg
+│           │     │─── pic2.jpg
+│           │     └─── pic3.jpg
 │           └─── works
 │                 │─── works.css
 │                 └─── works.js
