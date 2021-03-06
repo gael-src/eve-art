@@ -6,7 +6,7 @@ Simple React Web App with 3 page using `react-router-dom` npm package and the `b
 
 > $ git clone git@github.com:gael-src/simple-react-app.git
 
-> $ cd eve-art
+> $ cd simple-react-app
 
 > $ npm install
 
@@ -31,7 +31,7 @@ https://css-tricks.com/bem-101/
 ### Structure
 
 ```
-eve-art
+simple-react-app
 │
 │─── public
 └─── src
