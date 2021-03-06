@@ -1,11 +1,13 @@
 import React from "react";
 import "./galerie.css";
 
+import img from "../pics/alberto-bobbera-0TCUOrQ00gg-unsplash.jpg";
+
 function GalerieOne() {
 	return (
-		<section className="galerie">
-            <h3 className="h3-section">Galerie 1</h3>
-            <img src="" alt=""/>
+		<section className="galerie--section section--1">
+			<h3>Galerie 1</h3>
+			<img src={img} alt="Computer Keyboard" />
 		</section>
 	);
 }

@@ -8,26 +8,31 @@ import GalerieThree from "../galeries/Galerie3";
 function Works() {
 	return (
 		<Router>
-			<section className="works">
-				<h2 className="h2-section">Works</h2>
-				<p className="p-section">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
-					asperiores?
+			<section className="works--section">
+				<h2>Works</h2>
+				<p>Page 2</p>
+				<p>
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+					blanditiis rerum quaerat optio adipisci corrupti nulla, perferendis ad
+					delectus similique exercitationem maiores quos rem laudantium
+					molestias ipsa minima at itaque eaque ex sed culpa ullam! Ex non
+					quibusdam dolorem vel iure ipsa quis quam rem eos? Magnam, harum
+					distinctio! Nesciunt!
 				</p>
-				<nav className="nav-tag">
-					<ul className="nav-ul">
-						<li className="nav-li">
-							<Link className="nav-link" to="/works/galerie1">
+				<nav>
+					<ul className="nav--ul">
+						<li>
+							<Link className="nav--link galerie--link" to="/works/galerie1">
 								Galerie 1
 							</Link>
 						</li>
-						<li className="nav-li">
-							<Link className="nav-link" to="/works/galerie2">
+						<li>
+							<Link className="nav--link galerie--link" to="/works/galerie2">
 								Galerie 2
 							</Link>
 						</li>
-						<li className="nav-li">
-							<Link className="nav-link" to="/works/galerie3">
+						<li>
+							<Link className="nav--link galerie--link" to="/works/galerie3">
 								Galerie 3
 							</Link>
 						</li>

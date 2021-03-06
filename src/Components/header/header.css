@@ -1,28 +1,41 @@
+/* HEADER */
 .header {
 	display: flex;
-	color: greenyellow;
+	justify-content: center;
+	background-color: lightgrey;
 }
 
-/* .nav-tag {
-	display: flex;
-} */
-
-.nav-ul {
+/* NAV */
+.nav--ul {
 	display: flex;
 }
 
-.nav-li {
+.nav--ul li {
 	margin: 0 20px;
 	padding: 5px;
 }
 
-.nav-link {
-	color: yellowgreen;
+/* NAV LINK */
+.nav--link {
 	text-decoration: none;
 	font-weight: bold;
 	font-size: 18px;
 }
 
-.nav-link:hover {
-	color: indigo;
+/* NAV LINK COLOR */
+.nav--link--1 {
+	color: hotpink;
+}
+
+.nav--link--2 {
+	color: blueviolet;
+}
+
+.nav--link--3 {
+	color: cornflowerblue;
+}
+
+/* NAV LINK HOVER */
+.nav--link:hover {
+	color: blue;
 }
