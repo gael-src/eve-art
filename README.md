@@ -1,5 +1,15 @@
 # eve-art
 
+## Install with SSH:
+
+> $ git clone git@github.com:gael-src/eve-art.git
+
+> $ cd eve-art
+
+> $ npm install
+
+> $ npm start
+
 Simple React Web App with 3 page using `react-router-dom` npm package and the `bem convention` for CSS.
 
 ** React Router Dom NPM Package:** </br>
