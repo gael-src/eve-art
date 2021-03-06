@@ -60,8 +60,8 @@ eve-art
 │           │     │─── pic2.js
 │           │     └─── pic3.js
 │           └─── works
-│           │     │─── works.css
-│           │     └─── works.js
+│                 │─── works.css
+│                 └─── works.js
 │─── .gitignore
 │─── package.json
 └─── README.md
